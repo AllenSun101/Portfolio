@@ -8,10 +8,10 @@ export default function Home() {
 				<div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
 					<div className="text-center">
 						<h1 className="relative text-4xl font-bold text-white sm:text-6xl">
-							Hi there! I'm Allen.
+							Hi there! I&apos;m Allen.
 						</h1>
 						<p className="relative mt-6 text-xl leading-8 text-white">
-							I'm a developer, student, trader, and innovator. Let's connect!
+							I&apos;m a developer, student, trader, and innovator. Let&apos;s connect!
 						</p>
 					</div>
 				</div>
@@ -22,9 +22,9 @@ export default function Home() {
 					deep knowledge and an innovation-focused mindset to all organizations and opportunities. 
 				</p>
 				<p className='text-left'>
-					I'm a lifelong learner who focuses on personal growth and development. 
+					I&apos;m a lifelong learner who focuses on personal growth and development. 
 					I value hard work, efficiency, and pragmatism.
-					Please do not hesitate to reach out. I'd love to connect! 
+					Please do not hesitate to reach out. I&apos;d love to connect! 
 				</p>
 			</div>
 		</div>
