@@ -86,8 +86,8 @@ export default function About() {
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Profiles</p>
 								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
-									<li>LinkedIn: <a href='https://github.com/AllenSun101'><u>Link</u></a></li>
-									<li>GitHub: <a href='https://www.linkedin.com/in/allen-sun101/'><u>Link</u></a></li>
+									<li>LinkedIn: <a href='https://www.linkedin.com/in/allen-sun101/'><u>Link</u></a></li>
+									<li>GitHub: <a href='https://github.com/AllenSun101'><u>Link</u></a></li>
 									<li>Resume: <a href='' onClick={handleDownload}><u>Download</u></a></li>
 								</ul>
 							</div>
