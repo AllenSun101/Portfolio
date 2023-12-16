@@ -46,17 +46,17 @@ export default function About() {
 						<div className="lg:pr-8 lg:pt-4">
 							<div className="lg:max-w-2xl">
 								<p className="mt-2 text-3xl font-bold text-white sm:text-4xl">Allen Sun</p>
-								<ul className='mt-6 text-lg leading-8 list-disc text-white'>
+								<ul className='mt-6 text-lg leading-8 list-disc text-white mx-4'>
 									<li>Sophomore at Texas A&M University</li>
 									<li>Major in Computer Science, Minors in Business and Math</li>
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Experience</p>
-								<ul className='mt-2 text-lg leading-8 list-disc text-white'>
+								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
 									<li>Peer Teacher, Texas A&M College of Engineering (August 2023 - Present)</li>
 									<li>Game Application Development Intern, Berkeley Pharma Tech (May 2023 - August 2023)</li>
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Organizations</p>
-								<ul className='mt-2 text-lg leading-8 list-disc text-white'>
+								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
 									<li>Aggie Data Science Club (August 2022 - Present)</li>
 									<ul className='ml-8 text-base leading-8 list-disc text-white'>
 										<li>Projects Officer (April 2023 - Present)</li>
@@ -74,18 +74,18 @@ export default function About() {
 									</ul>
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Trading</p>
-								<ul className='mt-2 text-lg leading-8 list-disc text-white'>
+								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
 									<li>Original Blog Website: <a href='https://darkhorseofwallstreet.wordpress.com/'><u>Link</u></a></li>
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Interests</p>
-								<ul className='mt-2 text-lg leading-8 list-disc text-white'>
+								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
 									<li>Finance</li>
 									<li>Artificial Intelligence/Machine Learning</li>
 									<li>Gaming</li>
 									<li>Piano</li>
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Profiles</p>
-								<ul className='mt-2 text-lg leading-8 list-disc text-white'>
+								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
 									<li>LinkedIn: <a href='https://github.com/AllenSun101'><u>Link</u></a></li>
 									<li>GitHub: <a href='https://www.linkedin.com/in/allen-sun101/'><u>Link</u></a></li>
 									<li>Resume: <a href='' onClick={handleDownload}><u>Download</u></a></li>
@@ -104,7 +104,7 @@ export default function About() {
 							</div>
 
 							<p className="mt-16 text-xl font-bold text-white">Contact</p>
-							<ul className='mt-2 text-lg leading-8 list-disc text-white'>
+							<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
 								<li>Email: allensun21527@gmail.com </li>
 							</ul>
 						</div>
