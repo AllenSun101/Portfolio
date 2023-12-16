@@ -1,6 +1,8 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter, Raleway } from 'next/font/google'
+import { Analytics } from '@vercel/analytics/react';
+
 import Navbar from './Navbar'
 import Footer from './Footer'
 
@@ -22,6 +24,7 @@ export default function RootLayout({
       <body className={raleway.className}>
         <Navbar />
         {children}
+        <Analytics />
         <Footer />
         </body>
     </html>
