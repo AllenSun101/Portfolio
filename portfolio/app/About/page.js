@@ -52,6 +52,7 @@ export default function About() {
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Experience</p>
 								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
+									<li>Applied Data Science Program Intern (Software Engineering), Apple Inc. (May 2024 - Present)</li>
 									<li>Peer Teacher, Texas A&M College of Engineering (August 2023 - Present)</li>
 									<li>Game Application Development Intern, Berkeley Pharma Tech (May 2023 - August 2023)</li>
 								</ul>
@@ -60,6 +61,7 @@ export default function About() {
 									<li>Aggie Data Science Club (August 2022 - Present)</li>
 									<ul className='ml-8 text-base leading-8 list-disc text-white'>
 										<li>Projects Officer (April 2023 - Present)</li>
+										<li>Project Manager, ADSC X General Motors (February 2024 - May 2024)</li>
 										<li>Project Manager, Kaggle Walkthrough (September 2023 - December 2023)</li>
 									</ul>
 									<li>Aggie Coding Club (August 2022 - Present)</li>

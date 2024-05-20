@@ -62,6 +62,27 @@ export default function Projects(){
 						<div>
 							<div className='flex items-center justify-center'>
 								<Image
+									src="/GM-logo.png"
+									alt="GM Logo"
+									width="400"
+									height="400"
+									className='w-[32rem] rounded-xl md:w-[48rem] '
+								/>
+							</div>
+						</div>
+						<div className="lg:pr-8 mx-8">
+							<div className="lg:max-w-2xl">
+								<p className="mt-2 text-3xl font-bold text-white sm:text-4xl">Aggie Data Science Club X GM Project</p>
+								<p className="mt-2 text-lg font-bold text-white">Materials: <Link href="https://drive.google.com/drive/u/1/folders/1zfiyL-_-Ho6Y9wGvtim_oZ62ohv36B2b"> <u>Link</u> </Link></p>
+								<p className="mt-4 text-lg text-white"> Co-led company collaboration project using National Household Travel Survey data and General Motors' company goals. 
+								Oversaw 12 teams consisting of 50+ students. Wrote data science workshops and provided research guidance and coding assistance to teams. Served as point of 
+								contact between project participants and General Motors representatives.</p>
+								<p className="mt-4 text-lg text-white"> Used Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, and TensorFlow. </p>
+							</div>
+						</div>
+						<div>
+							<div className='flex items-center justify-center'>
+								<Image
 									src="/KaggleWalkthrough.png"
 									alt="Kaggle Walkthrough"
 									width="400"
