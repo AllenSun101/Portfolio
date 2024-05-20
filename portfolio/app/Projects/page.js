@@ -56,7 +56,7 @@ export default function Projects(){
 								<p className="mt-2 text-lg font-bold text-white">Repository: <Link href="https://github.com/AllenSun101/AggieFunds"> <u>Link</u> </Link></p>
 								<p className="mt-4 text-lg text-white">AggieFunds provides a platform for Texas A&M students, organizations, and alumni to raise
                             	funds for their initiatives, helping campaigns gain traction. </p>
-								<p className="mt-4 text-lg text-white">Led team of 6, using Next.js, Django, Axios, Stripe API, PostgreSQL, and Jira. Still in development. </p>
+								<p className="mt-4 text-lg text-white">Led team of 6, using Next.js, Django, Axios, Stripe API, PostgreSQL, and Jira. </p>
 							</div>
 						</div>
 						<div>
@@ -74,7 +74,7 @@ export default function Projects(){
 							<div className="lg:max-w-2xl">
 								<p className="mt-2 text-3xl font-bold text-white sm:text-4xl">Aggie Data Science Club X GM Project</p>
 								<p className="mt-2 text-lg font-bold text-white">Materials: <Link href="https://drive.google.com/drive/u/1/folders/1zfiyL-_-Ho6Y9wGvtim_oZ62ohv36B2b"> <u>Link</u> </Link></p>
-								<p className="mt-4 text-lg text-white"> Co-led company collaboration project using National Household Travel Survey data and General Motors' company goals. 
+								<p className="mt-4 text-lg text-white"> Co-led company collaboration project using National Household Travel Survey data and General Motors&apos; company goals. 
 								Oversaw 12 teams consisting of 50+ students. Wrote data science workshops and provided research guidance and coding assistance to teams. Served as point of 
 								contact between project participants and General Motors representatives.</p>
 								<p className="mt-4 text-lg text-white"> Used Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, and TensorFlow. </p>
