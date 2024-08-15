@@ -47,12 +47,12 @@ export default function About() {
 							<div className="lg:max-w-2xl">
 								<p className="mt-2 text-3xl font-bold text-white sm:text-4xl">Allen Sun</p>
 								<ul className='mt-6 text-lg leading-8 list-disc text-white mx-4'>
-									<li>Sophomore at Texas A&M University</li>
+									<li>Junior at Texas A&M University</li>
 									<li>Major in Computer Science, Minors in Business and Math</li>
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Experience</p>
 								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
-									<li>Applied Data Science Program Intern (Software Engineering), Apple Inc. (May 2024 - Present)</li>
+									<li>Software Engineer Intern (Applied Data Science Program), Apple Inc. (May 2024 - Present)</li>
 									<li>Peer Teacher, Texas A&M College of Engineering (August 2023 - Present)</li>
 									<li>Game Application Development Intern, Berkeley Pharma Tech (May 2023 - August 2023)</li>
 								</ul>
@@ -85,6 +85,7 @@ export default function About() {
 									<li>Artificial Intelligence/Machine Learning</li>
 									<li>Gaming</li>
 									<li>Piano</li>
+									<li>Singing</li>
 								</ul>
 								<p className="mt-6 text-xl font-bold text-white">Profiles</p>
 								<ul className='mt-2 text-lg leading-8 list-disc text-white mx-4'>
